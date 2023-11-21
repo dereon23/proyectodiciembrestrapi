@@ -5,3 +5,4 @@ public/uploads/*
 .idea
 *.sqlite
 license.txt
+.env
