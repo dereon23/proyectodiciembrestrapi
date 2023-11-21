@@ -1,7 +1,6 @@
 ############################
 # OS X
 ############################
-
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -10,18 +9,14 @@ Icon
 .Trashes
 ._*
 
-
 ############################
 # Linux
 ############################
-
 *~
-
 
 ############################
 # Windows
 ############################
-
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -31,11 +26,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-
 ############################
 # Packages
 ############################
-
 *.7z
 *.csv
 *.dat
@@ -60,22 +53,18 @@ $RECYCLE.BIN/
 *.out
 *.pid
 
-
 ############################
 # Logs and databases
 ############################
-
 .tmp
 *.log
 *.sql
 *.sqlite
 *.sqlite3
 
-
 ############################
 # Misc.
 ############################
-
 *#
 ssl
 .idea
@@ -86,7 +75,6 @@ public/uploads/*
 ############################
 # Node.js
 ############################
-
 lib-cov
 lcov.info
 pids
@@ -98,17 +86,13 @@ node_modules
 ############################
 # Tests
 ############################
-
 coverage
 
 ############################
 # Strapi
 ############################
-
 .env
 license.txt
 exports
 *.cache
-dist
-build
 .strapi-updater.json
