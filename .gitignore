@@ -6,3 +6,4 @@ public/uploads/*
 *.sqlite
 license.txt
 .env
+package-lock.json
